@@ -1,0 +1,2 @@
+# xftd
+File Type Detector
